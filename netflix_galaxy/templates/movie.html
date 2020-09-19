@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div>
+    <img class="card-img-top" src="{{ image }}" alt="Poster Image for {{ movie_title }}" alt="Poster Image for {{ movie_title }}">
+</div>
+{% endblock content %}
+{% block movie %}
+<div class="col-md-4"> 
+    <h3>{{ movie_title }}</h3>
+    <p>{{ synopsis }}</p>
+      <a href="{{ url_for('choose') }}" class="btn btn-primary mb-2">Show me another</a>
+</div>
+{% endblock movie %}
+
+
+
+
+

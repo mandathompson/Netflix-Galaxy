@@ -1,0 +1,122 @@
+body{
+  margin-top: 5rem;
+  background-color:black;
+  background-image:
+  radial-gradient(#c690ec, rgba(216, 81, 250, 0.2) 2px, transparent 40px),
+  radial-gradient(#f2e9f8, rgba(255,255,255,.2) 2px, transparent 40px),
+  radial-gradient(#0073f7, rgba(76, 188, 240, 0.15) 1px, transparent 30px),
+  radial-gradient(rgb(241, 75, 233), rgba(248, 10, 129, 0.15) 1px, transparent 30px),
+  radial-gradient(#f2e9f8, rgba(255,255,255,.2) 2px, transparent 40px),
+  radial-gradient(rgb(17, 85, 163), rgba(255,255,255,.1) 2px, transparent 40px),
+  radial-gradient(#fd1193, rgba(248, 16, 198, 0.1) 2px, transparent 40px),
+  radial-gradient(#f2e9f8, rgba(255,255,255,.2) 2px, transparent 40px),
+  radial-gradient(#009cf7, rgba(76, 229, 240, 0.15) 1px, transparent 30px),
+  radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+
+}
+
+/* body {
+  background-image: url("galaxy.jpg");
+  background-size: cover no-repeat;
+} */
+  
+  h1, h2, h3, h4, h5, h6, p, li, a {
+    color: #fdfcfc;
+  }
+
+  
+  .bg-steel {
+    background-color: #fd1193;
+  }
+  
+  .site-header .navbar-nav .nav-link {
+    color:#4B0082;
+  }
+  
+  .site-header .navbar-nav .nav-link:hover {
+    color: #c690ec;
+  }
+  
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+  
+  .content-section {
+    background: #e747fcb9;
+    padding: 10px 20px;
+    border: 1px solid #491549;
+    border-radius: 3px;
+    margin-bottom: 20px;
+  }
+  
+  .article-title {
+    color: #1b0c72;
+  }
+  
+  a.article-title:hover {
+    color: #0073f7;
+    text-decoration: none;
+  }
+  
+  .article-content {
+    white-space: pre-line;
+  }
+  
+  .article-img {
+    height: 65px;
+    width: 65px;
+    margin-right: 16px;
+  }
+  
+  .article-metadata {
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #e3e3e3
+  }
+  
+  .article-metadata a:hover {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .article-svg {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+  }
+  
+  .account-img {
+    height: 125px;
+    width: 125px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+  }
+  
+  .account-heading {
+    font-size: 2.5rem;
+  }
+
+  #sticky-footer {
+    flex-shrink: none;
+    background-color: #ff68c071;
+    color: whitesmoke;
+  }
+
+
+  .article-img-banner {
+    height: 16.25px;
+    width: 16.25px;
+    margin-right: 16px;
+  } 
+
+.index {
+  top: 22em;
+  border: red;
+}
+
+ 
+#sticky-footer {
+  flex-shrink: none;
+}
