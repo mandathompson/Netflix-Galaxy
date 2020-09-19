@@ -14,6 +14,7 @@ Flask-WTF==0.14.2
 itsdangerous==0.24
 Jinja2==2.10
 Pillow==7.2.0
+psycopg2-binary==2.8.5
 pycparser==2.18
 requests==2.24.0
 six==1.11.0
