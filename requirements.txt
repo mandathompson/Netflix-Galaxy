@@ -4,6 +4,7 @@ blinker==1.4
 certifi==2020.6.20
 cffi==1.14.0
 Click==7.0
+decorator==4.3.0
 Flask==1.0.2
 Flask-Bcrypt==0.7.1
 Flask-Login==0.5.0
@@ -14,6 +15,7 @@ itsdangerous==0.24
 Jinja2==2.10
 Pillow==7.2.0
 pycparser==2.18
+requests==2.24.0
 six==1.11.0
 SQLAlchemy==1.2.12
 Werkzeug==0.14.1
