@@ -1,0 +1,4 @@
+SECRET_KEY = "3296e372939b450d87f6aba54baa3052"
+MAIL_USERNAME = "n3tflixroul3tt3@gmail.com"
+MAIL_PASSWORD = "Squish5809!"
+API_KEY = "96e15bee15mshafbbf248ee7638cp13e2d0jsnf381ceba7771"
