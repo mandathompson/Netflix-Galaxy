@@ -1,6 +1,6 @@
 # Netflix Galaxy
 
-##[Netflix Galaxy](https://netflix-galaxy.herokuapp.com/)
+## [Netflix Galaxy](https://netflix-galaxy.herokuapp.com/)
 
 ## Usage
 
@@ -15,4 +15,4 @@ Install dependencies from requirements.txt before forking/cloning
 
 ## API
 
-##[The unofficial netflix API](https://rapidapi.com/unogs/api/unogs)
+## [The unofficial netflix API](https://rapidapi.com/unogs/api/unogs)
