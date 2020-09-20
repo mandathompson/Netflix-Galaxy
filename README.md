@@ -10,6 +10,8 @@ post a movie review or read others' reviews.
 
 Install dependencies from requirements.txt before forking/cloning
 
+This app was made using Python, Flask, SQL-Alchemy, wtforms, and postgreSQL
+
 
 ## API
 
