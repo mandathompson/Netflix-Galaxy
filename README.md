@@ -17,5 +17,4 @@ Install dependencies from requirements.txt before forking/cloning
 
 ## [The unofficial netflix API](https://rapidapi.com/unogs/api/unogs)
 
-![Image of App]
-(https://github.com/mandathompson/Netflix-Galaxy/blob/master/Netflix_Galaxy.png)
+![Image of App](https://github.com/mandathompson/Netflix-Galaxy/blob/master/Netflix_Galaxy.png)
