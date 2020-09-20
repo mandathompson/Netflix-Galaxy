@@ -1,6 +1,4 @@
-# Netflix Galaxy
-
-## [Netflix Galaxy](https://netflix-galaxy.herokuapp.com/)
+# [Netflix Galaxy](https://netflix-galaxy.herokuapp.com/)
 
 ## Usage
 
